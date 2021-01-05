@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "@blueprintjs/core": "^3.5.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.8.0",
     "email-existence": "^0.1.6",
     "express": "^4.16.3",
